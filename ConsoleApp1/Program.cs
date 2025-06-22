@@ -56,6 +56,37 @@ namespace ConsoleApp1
              */
             #endregion
 
+            #region Q5
+            /*
+            Write C# program that Assigning one value type variable to another and modifying the value of one variable and mention what will happen
+            int x = 5 ;
+            int  y = x ;
+            y = 7  ;
+               
+            Console.WriteLine(x);
+            Console.WriteLine(y);*/
+            #endregion
+
+            #region Q6
+
+            #endregion
+
+            #region Q7
+
+            #endregion
+
+            #region Q8
+            //B_ A value 1 will be assigned to d.
+            #endregion
+
+            #region Q9
+            // D_ 6 1
+            #endregion
+
+            #region Q10
+            // D_ 7 7
+            #endregion
+
 
         }
 
