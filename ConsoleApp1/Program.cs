@@ -11,12 +11,12 @@ namespace ConsoleApp1
         {
 
             #region Q1
-               /*
-           Write a program that allows the user to enter a number then print it.
-            Console.WriteLine("pleas insert number!");
-            
-            int number = int.Parse(Console.ReadLine());
-            Console.WriteLine($"Your number is : {number}");
+            /*
+        Write a program that allows the user to enter a number then print it.
+         Console.WriteLine("pleas insert number!");
+
+         int number = int.Parse(Console.ReadLine());
+         Console.WriteLine($"Your number is : {number}");
 */
             #endregion
 
@@ -36,7 +36,16 @@ namespace ConsoleApp1
               }*/
             #endregion
 
+            #region Q3
+           /*
+            Write C# program that Perform a simple arithmetic operation with floating-point numbers And mention what will happen
+            double x = 1.5f;
+            double y = 2.5f;
+            double result = x + y;
 
+            Console.WriteLine("summtion: " +result );
+           */
+            #endregion
 
         }
 
