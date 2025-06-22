@@ -37,15 +37,25 @@ namespace ConsoleApp1
             #endregion
 
             #region Q3
-           /*
-            Write C# program that Perform a simple arithmetic operation with floating-point numbers And mention what will happen
-            double x = 1.5f;
-            double y = 2.5f;
-            double result = x + y;
+            /*
+             Write C# program that Perform a simple arithmetic operation with floating-point numbers And mention what will happen
+             double x = 1.5f;
+             double y = 2.5f;
+             double result = x + y;
 
-            Console.WriteLine("summtion: " +result );
-           */
+             Console.WriteLine("summtion: " +result );
+            */
             #endregion
+
+            #region Q4
+            /*
+             Write C# program that Extract a substring from a given string.
+             string str = "Hello mohamed";
+             string substring = str.Substring(6, 7);
+             Console.WriteLine("your part is: " + substring);
+             */
+            #endregion
+
 
         }
 
